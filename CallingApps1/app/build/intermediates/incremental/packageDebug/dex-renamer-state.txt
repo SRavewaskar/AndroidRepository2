@@ -1,0 +1,7 @@
+#Fri Nov 25 11:21:00 IST 2016
+base.0=D\:\\workspace\\workbook2\\CallingApps1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1b19deabdfc51347e258ec947438b8544942c02
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\workbook2\\CallingApps1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_583ab02dc463ba1a6a75b10bca3445685ecb63d9\\classes.dex
+base.1=D\:\\workspace\\workbook2\\CallingApps1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_583ab02dc463ba1a6a75b10bca3445685ecb63d9
+file.0=D\:\\workspace\\workbook2\\CallingApps1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1b19deabdfc51347e258ec947438b8544942c02\\classes.dex

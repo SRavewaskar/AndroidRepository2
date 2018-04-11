@@ -1,0 +1,7 @@
+#Fri Nov 25 11:18:46 IST 2016
+base.0=D\:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b94673110ba711edd5779855069912ad4dd4ea72
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b46e0c68e681e8936d71d09f26726455a46ee66\\classes.dex
+base.1=D\:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b46e0c68e681e8936d71d09f26726455a46ee66
+file.0=D\:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b94673110ba711edd5779855069912ad4dd4ea72\\classes.dex

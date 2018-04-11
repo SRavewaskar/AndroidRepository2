@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 64,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 64,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 52,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 52,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 54,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 54,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 73,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 73,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 52,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 52,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 59,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 59,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 48,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 48,
+                        "endOffset": 473
+                    }
+                }
+            }
+        ]
+    }
+]

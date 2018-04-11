@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Nov 22 11:32:10 IST 2016
+1.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_

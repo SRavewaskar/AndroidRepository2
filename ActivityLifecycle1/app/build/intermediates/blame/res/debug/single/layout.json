@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\a3.xml",
+        "source": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\layout\\a3.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\a2.xml",
+        "source": "D:\\workspace\\workbook2\\ActivityLifecycle1\\app\\src\\main\\res\\layout\\a2.xml"
+    }
+]

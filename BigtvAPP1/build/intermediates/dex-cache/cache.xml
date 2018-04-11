@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace\workbook2\BigtvAPP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_52ef4bcdb176e7a351a98305c22619cfbb9c8fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook2\BigtvAPP1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b51fa8052763b92a15d5df1d3fe9de82fd3ada2">
+        <dex dex="D:\workspace\workbook2\BigtvAPP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b46e0c68e681e8936d71d09f26726455a46ee66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook2\BigtvAPP1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b178cb7fde9dc66557636bb6a2e99e3a80754d6e">
+        <dex dex="D:\workspace\workbook2\BigtvAPP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b94673110ba711edd5779855069912ad4dd4ea72\classes.dex" />
+    </item>
+
+</items>

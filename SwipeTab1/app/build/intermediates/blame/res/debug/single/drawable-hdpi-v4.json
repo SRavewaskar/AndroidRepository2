@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\workbook2\\SwipeTab1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android.jpg",
+        "source": "D:\\workspace\\workbook2\\SwipeTab1\\app\\src\\main\\res\\drawable-hdpi\\android.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\SwipeTab1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\windows.jpg",
+        "source": "D:\\workspace\\workbook2\\SwipeTab1\\app\\src\\main\\res\\drawable-hdpi\\windows.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\SwipeTab1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ios.jpg",
+        "source": "D:\\workspace\\workbook2\\SwipeTab1\\app\\src\\main\\res\\drawable-hdpi\\ios.jpg"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook2\SwipeTab1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e101aca1ec17dca9be867afa3bebbbbd331b2dbc">
+        <dex dex="D:\workspace\workbook2\SwipeTab1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a547fab258d585e3f124e23a9c3fe1322bfb7b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook2\SwipeTab1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fed2b2966d98255d56c81d57154f1b98f1962d3b">
+        <dex dex="D:\workspace\workbook2\SwipeTab1\app\build\intermediates\pre-dexed\debug\instant-run_d6b376fc24ef2b0235d3dc47fbabb0ff723178c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace\workbook2\SwipeTab1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_52ef4bcdb176e7a351a98305c22619cfbb9c8fd8.jar" />
+    </item>
+
+</items>

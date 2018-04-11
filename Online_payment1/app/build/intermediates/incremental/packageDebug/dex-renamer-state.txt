@@ -1,0 +1,7 @@
+#Fri Nov 25 11:08:27 IST 2016
+base.0=D\:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdba99923de18931fd6bd8a32f185d1482f36f29
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35e775daba6b0c88fc42a593ba746c635e85531d\\classes.dex
+base.1=D\:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35e775daba6b0c88fc42a593ba746c635e85531d
+file.0=D\:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdba99923de18931fd6bd8a32f185d1482f36f29\\classes.dex

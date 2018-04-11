@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="200dp"
+    android:layout_height="350dp"
+    android:background="#aa66bb"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Hello friends we are in Activity 1"
+    android:textSize="20sp"
+    />
+
+<Button 
+    android:layout_marginTop="10dp"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="We want to go to Mac Donalds"
+    android:textSize="20sp"
+    android:onClick="callAnotherActivity1" 
+    />
+
+<!-- 
+<Button 
+    android:layout_marginTop="10dp"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="We want to go to Lab for Pracs"
+    android:textSize="20sp"
+    android:onClick="callAnotherActivity1" 
+    />
+     -->
+</LinearLayout>

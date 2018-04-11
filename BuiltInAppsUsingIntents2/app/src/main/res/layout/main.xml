@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent" >
+
+<Button
+android:id="@+id/btn_webbrowser"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Web Browser" />
+
+<Button
+android:id="@+id/btn_makecalls"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Make Calls" />
+
+<Button
+android:id="@+id/btn_showMap"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Show Map" />
+
+<Button
+android:id="@+id/btn_chooseContact"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Choose Contact" />
+
+</LinearLayout>

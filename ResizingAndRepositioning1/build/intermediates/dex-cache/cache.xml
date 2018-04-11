@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook2\ResizingAndRepositioning1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a71ebcdb43f6a6c22445866e5e8c18c832569b">
+        <dex dex="D:\workspace\workbook2\ResizingAndRepositioning1\app\build\intermediates\pre-dexed\debug\instant-run_d2947d38c7f67dcbeff1233e815765ed1389d6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook2\ResizingAndRepositioning1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a7068c580343cf288e7134d959d5d2b6b2a7bfc">
+        <dex dex="D:\workspace\workbook2\ResizingAndRepositioning1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1c6b298e939e6e7b239411e2cced3f69aafe3d71.jar" />
+    </item>
+
+</items>

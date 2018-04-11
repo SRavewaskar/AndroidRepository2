@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Nov 22 11:32:15 IST 2016
+2.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+count=6
+0.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+1.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+0.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\workspace\\workbook2\\ResizingAndRepositioning1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.set=ANDROID_RESOURCE

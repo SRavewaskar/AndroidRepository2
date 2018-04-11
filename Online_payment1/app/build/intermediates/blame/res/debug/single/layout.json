@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_actv.xml",
+        "source": "D:\\workspace\\workbook2\\Online_payment1\\app\\src\\main\\res\\layout\\first_actv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\workbook2\\Online_payment1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\Online_payment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\last_actv.xml",
+        "source": "D:\\workspace\\workbook2\\Online_payment1\\app\\src\\main\\res\\layout\\last_actv.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\first_screen.xml",
+        "source": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\src\\main\\res\\menu\\first_screen.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\result.xml",
+        "source": "D:\\workspace\\workbook2\\BigtvAPP1\\app\\src\\main\\res\\menu\\result.xml"
+    }
+]

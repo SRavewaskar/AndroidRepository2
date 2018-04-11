@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    >
+<ListView 
+    android:id="@+id/outputList"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+
+   <Button 
+       android:id="@+id/bt1"
+       android:layout_below="@id/outputList"
+       android:layout_height="wrap_content"
+       android:layout_width="fill_parent"
+       android:onClick="EXIT"
+       android:text="EXIT"
+       />
+   </RelativeLayout>

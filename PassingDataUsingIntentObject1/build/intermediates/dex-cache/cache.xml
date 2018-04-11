@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook2\PassingDataUsingIntentObject1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54e495263e3ca1706381e43f81f92c29cc8c8ace">
+        <dex dex="D:\workspace\workbook2\PassingDataUsingIntentObject1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0d3941109eae129ad501a411d344636f9212fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook2\PassingDataUsingIntentObject1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="804937c477cc40237c7cb63dd181190b1f168b0b">
+        <dex dex="D:\workspace\workbook2\PassingDataUsingIntentObject1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f2c0e38a23cd63fb0c9cc35c08d4b14eca0d634\classes.dex" />
+    </item>
+
+</items>

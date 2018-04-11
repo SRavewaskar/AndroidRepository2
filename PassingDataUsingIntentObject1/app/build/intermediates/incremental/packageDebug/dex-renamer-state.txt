@@ -1,0 +1,7 @@
+#Fri Nov 25 10:08:52 IST 2016
+base.0=D\:\\workspace\\workbook2\\PassingDataUsingIntentObject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0d3941109eae129ad501a411d344636f9212fb6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\workbook2\\PassingDataUsingIntentObject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f2c0e38a23cd63fb0c9cc35c08d4b14eca0d634\\classes.dex
+base.1=D\:\\workspace\\workbook2\\PassingDataUsingIntentObject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f2c0e38a23cd63fb0c9cc35c08d4b14eca0d634
+file.0=D\:\\workspace\\workbook2\\PassingDataUsingIntentObject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0d3941109eae129ad501a411d344636f9212fb6\\classes.dex
